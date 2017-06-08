@@ -15,21 +15,3 @@ h1 {
     top: -10vw;
 }
 
-.stateInfo {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    width: 250px;
-    height: 250px;
-    margin: 275px;
-}
-.stateName {
-    font-weight: normal;
-    font-size: 120px;
-    margin: 0;
-    text-align: center;
-}
-.stateInfo>span {
-    margin: 0 auto;
-    text-align: center;
-}
